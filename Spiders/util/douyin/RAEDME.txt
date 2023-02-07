@@ -1,0 +1,1 @@
+python3 douyin_download.py ./shanxi_user_info.txt
